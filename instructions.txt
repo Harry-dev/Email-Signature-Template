@@ -1,0 +1,11 @@
+Instructions:
+
+- Copy Template Folder to Desired Path
+- Rename Folder to Job Number + '-email-sig'
+- Drag Folder Into New Sublime Project
+- Open generator.php and email.csv
+- In generator, Find & Replace '[yourpath]' to Your New Path
+- Link Logo/Image Names
+- In the CSV File, Clear Unneccessary Entities, Add New Ones
+- ^ Replicate in generator
+- Edit Away!
